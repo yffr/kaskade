@@ -1,4 +1,4 @@
-# kaskade stylesheet
+# <span style="color:#66f">kaskade</a> stylesheet
 
 *100%* free to use, edit, copy, etc. (![license](https://codeberg.org/gfr/kaskade/src/branch/master/basedLICENSE))  
 *100%* js free, class/id free, and clutter free
