@@ -1,0 +1,40 @@
+:root{
+  --clr: #66f /* theme */
+}
+
+html,body{
+  margin:10% auto 0;
+  max-width:720px;
+  font-family:sans-serif;
+  background:#000;
+  color:#fff
+}
+h1,h2,h3,h4,h5,h6,a{
+  text-decoration:none;
+  color:var(--clr);
+  transition:.3s
+}
+a:hover{
+  color:#fff
+}
+::selection{
+  background:var(--clr);
+  color:#000
+}
+ul,li{
+  list-style:none;
+  padding:0
+}
+img{
+  max-width:720px;
+  border-radius:5%
+}
+@media(prefers-color-scheme:light){
+  html,body{
+    background:#fff;
+    color:#000
+  }
+  ::selection{
+    color:#fff
+  }
+}
