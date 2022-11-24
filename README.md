@@ -5,6 +5,6 @@
 
 ## why use this?
 
-i dunno - kaskade was made because of the lack of ultraminimal stylesheets without classes or identities constantly being used ... that's what the tags are for - you want bold? use <b>, you want italics? use <i>, you want an underline? use <u> ... these don't all need their own classes - <span class='italics'> vs <i> ... so use this little theme i've made for myself as you wish (in accordance with the license)
+i dunno - kaskade was made because of the lack of ultraminimal stylesheets without classes or identities constantly being used ... that's what the tags are for - you want bold? use <\b>, you want italics? use <\i>, you want an underline? use <\u> ... these don't all need their own classes - <\span class='italics'> vs <\i> ... so use this little theme i've made for myself as you wish (in accordance with the license)
 
 i'm looking for ways to pair this >400B stylesheet template with a markdown static site generator - if you know how ... uhh, cool ... you can contact me if you like ![here](https://stop.voring.me/@gfr)
